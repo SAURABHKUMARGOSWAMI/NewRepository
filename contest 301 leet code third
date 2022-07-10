@@ -1,6 +1,6 @@
-Move Pieces to Obtain a String
+                                                   Move Pieces to Obtain a String
 
-code here =
+
 
 class Solution:
     def canChange(self, start: str, target: str) -> bool:
